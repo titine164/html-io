@@ -30,3 +30,21 @@ li{
 img{
     width: 200px;
 }
+
+.bouton{
+    background-color: #dde3eb;
+
+}
+
+.destination{
+    background-color:antiquewhite;
+}
+
+a img{
+    cursor: pointer;
+    transition: transform 0.2s;
+    width: 8%;
+    position:relative;
+    left: 90%;
+
+}
